@@ -29,7 +29,7 @@ the new repository.
 It then runs `bin/bootstrap-template`, at the moment, it passes it the following environment:
 
 | Environment Variable          | Value |
-|-------------------------------+----------------------------------------------------------------|
+|-------------------------------|----------------------------------------------------------------|
 | `ECOLOGY_PROJECT_NAME`        | The name of the project from the `EcologyProject` declaration  |
 | `ECOLOGY_PROJECT_DESCRIPTION` | The short description of the project from the `EcologyProject` declaration |
 
